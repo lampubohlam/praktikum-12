@@ -96,7 +96,17 @@ jadi menggunakan fungsi replace
             print(txt.format(umur))
             
             
-            ![Screenshot (220)](https://user-images.githubusercontent.com/116137169/209849573-82770cf9-9ac8-4a30-993a-17bce217e017.png)
+  ![hasil run](https://user-images.githubusercontent.com/116137169/209854823-258d98ec-3696-43b2-95bf-4b3441f73b32.png)
 
-   
+
+
+
+
+
+SEKIAN DAN TERIMAKASIH 
+
+
+
+![image](https://user-images.githubusercontent.com/116137169/209854908-d0ab87c8-cfa5-4f54-94bc-ab39efcd80aa.png)
+
 
